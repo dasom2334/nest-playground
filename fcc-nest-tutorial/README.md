@@ -1,6 +1,6 @@
 # [NestJs Course for Beginners - Create a REST API](https://www.youtube.com/watch?v=GHTA143_b-s)
 
-current 1:13:14<br>
+current 2:12:10<br>
 
 ⭐️ Course Contents ⭐<br>
 
@@ -23,12 +23,12 @@ current 1:13:14<br>
 - ⌨️ (0:59:10) ~~NestJs global pipe~~<br>
 - ⌨️ (1:02:50) ~~Hashing user password with argon~~<br>
 - ⌨️ (1:03:20) ~~Sign up logic~~<br>
-- ⌨️ (1:13:13) Sign in logic<br>
-- ⌨️ (1:16:50) Automate postgres restart & prisma migrations<br>
-- ⌨️ (1:27:40) NestJs config module<br>
-- ⌨️ (1:34:40) Using passport js & jwt module with nestJs<br>
-- ⌨️ (1:55:10) Get current user with access token<br>
-- ⌨️ (1:57:00) NestJs Guards<br>
+- ⌨️ (1:13:13) ~~Sign in logic~~<br>
+- ⌨️ (1:16:50) ~~Automate postgres restart & prisma migrations~~<br>
+- ⌨️ (1:27:40) ~~NestJs config module~~<br>
+- ⌨️ (1:34:40) ~~Using passport js & jwt module with nestJs~~<br>
+- ⌨️ (1:55:10) ~~Get current user with access token~~<br>
+- ⌨️ (1:57:00) ~~NestJs Guards~~<br>
 - ⌨️ (2:12:10) NestJs custom param decorator<br>
 - ⌨️ (2:27:10) e2e tests with pactumJs<br>
 - ⌨️ (2:35:10) Setting up test database<br>
