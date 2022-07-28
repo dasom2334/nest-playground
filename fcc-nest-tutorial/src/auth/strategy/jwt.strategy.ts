@@ -5,7 +5,7 @@ import {
   ExtractJwt,
   Strategy,
 } from 'passport-jwt';
-import { PrismaService } from 'src/prisma/prisma.service';
+import { PrismaService } from '../../prisma/prisma.service';
 
 @Injectable()
 export class JwtStrategy extends PassportStrategy(
@@ -27,8 +27,6 @@ export class JwtStrategy extends PassportStrategy(
     sub: number;
     email: string;
   }) {
-    // console.log({  });
-    // return {};
     const user =
       await this.prisma.user.findUnique({
         where: { id: payload.sub },

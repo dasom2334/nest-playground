@@ -1,6 +1,6 @@
 # [NestJs Course for Beginners - Create a REST API](https://www.youtube.com/watch?v=GHTA143_b-s)
 
-current 2:12:10<br>
+current ALL DONE 🎉<br>
 
 ⭐️ Course Contents ⭐<br>
 
@@ -29,12 +29,12 @@ current 2:12:10<br>
 - ⌨️ (1:34:40) ~~Using passport js & jwt module with nestJs~~<br>
 - ⌨️ (1:55:10) ~~Get current user with access token~~<br>
 - ⌨️ (1:57:00) ~~NestJs Guards~~<br>
-- ⌨️ (2:12:10) NestJs custom param decorator<br>
-- ⌨️ (2:27:10) e2e tests with pactumJs<br>
-- ⌨️ (2:35:10) Setting up test database<br>
-- ⌨️ (2:36:10) Automate test database restart & migrations<br>
-- ⌨️ (2:37:10) Using dotenv cli with prisma<br>
-- ⌨️ (2:44:30) Prisma database teardown logic<br>
-- ⌨️ (2:53:10) Auth e2e tests<br>
-- ⌨️ (3:02:01) User e2e tests<br>
-- ⌨️ (3:13:20) Bookmarks e2e test<br>
+- ⌨️ (2:12:10) ~~NestJs custom param decorator~~<br>
+- ⌨️ (2:27:10) ~~e2e tests with pactumJs~~<br>
+- ⌨️ (2:35:10) ~~Setting up test database~~<br>
+- ⌨️ (2:36:10) ~~Automate test database restart & migrations~~<br>
+- ⌨️ (2:37:10) ~~Using dotenv cli with prisma~~<br>
+- ⌨️ (2:44:30) ~~Prisma database teardown logic~~<br>
+- ⌨️ (2:53:10) ~~Auth e2e tests~~<br>
+- ⌨️ (3:02:01) ~~User e2e tests~~<br>
+- ⌨️ (3:13:20) ~~Bookmarks e2e test~~<br>
